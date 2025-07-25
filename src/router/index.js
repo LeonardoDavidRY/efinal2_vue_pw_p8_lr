@@ -1,11 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import CitaMedicaView from '@/views/CitaMedicaView.vue'
 
 const routes = [
   {
     path: '/',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/cita-medica',
+    name: 'cita-medica',
+    component: CitaMedicaView
   },
   {
     path: '/about',
