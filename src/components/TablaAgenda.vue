@@ -9,6 +9,7 @@
           <th>CedulaPaciente</th>
           <th>Fecha Cita</th>
           <th>Nombre Doctor</th>
+          <th>Paciente prueba</th>
         </tr>
       </thead>
       <tbody>

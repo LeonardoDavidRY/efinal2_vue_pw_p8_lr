@@ -13,6 +13,11 @@ export default {
     Agenda,
     TablaAgenda,
   },
+  data() {
+    return {
+      // Aquí puedes agregar datos específicos si es necesario
+    };
+  },
 };
 </script>
 <style>
